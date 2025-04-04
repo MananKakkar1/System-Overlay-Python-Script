@@ -108,7 +108,7 @@ def update_info():
 
 
 root = tk.Tk()
-root.title("System Monitor Overlay")
+root.title("System Overlay")
 
 cpu_usage = tk.StringVar()
 memory_usage = tk.StringVar()
